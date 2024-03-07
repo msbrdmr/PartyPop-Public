@@ -5,7 +5,7 @@
 Welcome to PartyPop - a platform for synchronized realtime video parties! 🎉🚀
 
 ## Overview
-PartyPop is a web application that allows users to watch videos or listen to music synchronized with their friends, regardless of their physical locations. Whether you're hosting a virtual party or simply enjoying a movie night with friends, PartyPop ensures everyone stays in sync!
+PartyPop is a web application that allows users to watch videos or listen to music synchronized with their friends, regardless of their physical locations. Whether you're hosting a virtual party or simply enjoying a movie night with friends, PartyPop ensures everyone stays in sync! 
 
 ## Features
 - **Synchronization**: Users can watch videos or listen to music in real-time with their friends.
